@@ -1,0 +1,7 @@
+## 対比語
+- create ⇔ delete
+- public ⇔ private
+
+## 類義語
+- update ≒ modify
+- send ≒ deliver
